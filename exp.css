@@ -24,4 +24,13 @@
     background-color: #512DA8;
   }
 
+  .heads{
+      text-align:center;
+  }
+
+  .footer {
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px;
+  }
 
