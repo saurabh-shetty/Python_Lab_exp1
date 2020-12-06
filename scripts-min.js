@@ -25,29 +25,6 @@ function display1(){
     
 }
 
-function display2(){
-    console.log("Display2");
-    $("#change").fadeOut(5000,function() {
-        $(this).text("Learner")
-      }).fadeIn(3000);    
-    console.log('Successfull');
-    display3();
-    
-}
-
-function display3(){
-    console.log("Display3");
-    $("#change").fadeOut(5000,function() {
-        $(this).text("Developer")
-      }).fadeIn(3000);    
-    console.log('Successfull');
-    display1();
-    
-}
-
-
-
-
 
 
 ! function(n) {
